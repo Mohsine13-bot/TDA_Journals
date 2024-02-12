@@ -24,7 +24,7 @@ The analysis follows these main steps:
    ```
    pip install -r requirements.txt
    ```
-3. Open the Jupyter notebook `Topological_Analysis_User_Logs.ipynb`.
+3. Open the Jupyter notebook `tda_journals.ipynb`.
 4. Follow the instructions within the notebook to execute each cell and perform the analysis.
 
 ## Results
